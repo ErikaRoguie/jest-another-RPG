@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A game using OOP and TDD",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikaRoguie/jest-another-RPG.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Erika Sanders",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ErikaRoguie/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ErikaRoguie/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
